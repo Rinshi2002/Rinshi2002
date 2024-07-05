@@ -1,7 +1,7 @@
-[![MasterHead](https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif)
+[![MasterHead](https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif)
 <h1 align="center">Hi 👋, I'm Rinshida</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<!-- <img align left="right" alt="coding" width="400" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" -->
+<img align left="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"
 
 - 🌱 I’m currently learning **python**
 
