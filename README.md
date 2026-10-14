@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Rinshida K.
 
-### ☁️ Aspiring AWS Cloud Engineer | Software Developer | Cloud Computing Enthusiast
+### ☁️ AWS & Cloud Computing | Software Developer | Cloud Infrastructure
 
-I'm a Computer Science and Engineering graduate passionate about **AWS, cloud infrastructure, web technologies, and building reliable applications**. I have experience in software development and am currently strengthening my cloud computing skills through hands-on AWS projects and continuous learning.
+I'm a Computer Science and Engineering graduate with experience in software development and knowledge of **AWS cloud services, cloud infrastructure, networking, databases, and web hosting technologies**. I enjoy building applications, working with cloud environments, and exploring practical solutions to technical challenges.
 
-- ☁️ Currently learning **AWS Solutions Architecture**
-- 🛠️ Practicing **Amazon EC2, S3, Elastic Load Balancing, and Auto Scaling**
-- 🚀 Building hands-on cloud projects and documenting them on GitHub
-- 💻 Experienced in web development, REST APIs, and application deployment
-- 🌱 Exploring cloud architecture, infrastructure, and automation
-- 🎯 Career goal: **AWS Cloud Engineer / Cloud Solutions Architect**
+- ☁️ Knowledge of **AWS Cloud Services and Infrastructure**
+- 🖥️ Experience with **Amazon EC2, Amazon S3, VPC, and Load Balancing**
+- 🌐 Knowledge of **VPN, networking, and cloud connectivity**
+- 🚀 Familiar with **Apache and IIS web hosting**
+- 🗄️ Knowledge of databases and REST API development
+- 💻 Experience with web technologies and application deployment
 - 📍 Based in India | Open to relocation and international opportunities
-- 📫 Reach me at **rinshidak2002@gmail.com**
+- 📫 Contact: **rinshidak2002@gmail.com**
 
 ---
 
@@ -28,11 +28,21 @@ I'm a Computer Science and Engineering graduate passionate about **AWS, cloud in
 ### ☁️ AWS & Cloud Technologies
 
 <p align="left">
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2"/>
 <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
-<img src="https://img.shields.io/badge/Elastic_Load_Balancing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Elastic Load Balancing"/>
+<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon VPC"/>
+<img src="https://img.shields.io/badge/Load_Balancing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Load Balancing"/>
 <img src="https://img.shields.io/badge/Auto_Scaling-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Auto Scaling"/>
+</p>
+
+### 🌐 Networking & Web Hosting
+
+<p align="left">
+<img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+<img src="https://img.shields.io/badge/VPN-00599C?style=for-the-badge&logo=wireguard&logoColor=white" alt="VPN"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+<img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="IIS"/>
 </p>
 
 ### 💻 Programming Languages & Development Tools
@@ -49,30 +59,37 @@ I'm a Computer Science and Engineering graduate passionate about **AWS, cloud in
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### 🚀 Featured Projects
+### 🗄️ Databases & Backend Technologies
 
-**1. AWS Application Load Balancer Demo**
+- Database fundamentals and data management
+- REST API development and integration
+- Node.js and Express.js
+- Client-server architecture
+
+---
+
+### 🚀 Projects
+
+**☁️ AWS Application Load Balancer Demo**
 
 - Deploy web servers on Amazon EC2.
-- Configure an Application Load Balancer to distribute incoming HTTP traffic.
-- Explore target groups, health checks, and high availability.
+- Configure an Application Load Balancer and target groups.
+- Explore health checks and traffic distribution.
 
-🔗 [View my GitHub repositories](https://github.com/rinshi2002?tab=repositories)
+**🖥️ Web Hosting with Apache and IIS**
 
-**2. AWS Web Hosting with Amazon EC2**
+- Host web pages on Linux and Windows servers.
+- Configure HTTP access and security groups.
+- Practice web server configuration and troubleshooting.
 
-- Host static web pages using Apache or IIS.
-- Configure security groups and HTTP access.
-- Practice basic cloud infrastructure management.
-
-🔗 [Explore my repositories](https://github.com/rinshi2002?tab=repositories)
+🔗 [Explore My GitHub Repositories](https://github.com/rinshi2002?tab=repositories)
 
 ---
 
 ### 📊 GitHub Statistics
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=rinshi2002&show_icons=true&theme=tokyonight" alt="Rinshida's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rinshi2002&show_icons=true&theme=tokyonight" alt="GitHub Statistics"/>
 </p>
 
 <p>
@@ -81,8 +98,8 @@ I'm a Computer Science and Engineering graduate passionate about **AWS, cloud in
 
 ---
 
-### ✨ My Goal
+### ✨ A Little About Me
 
-I believe in learning by building. I'm continuously developing my cloud computing knowledge, strengthening my technical skills, and creating practical projects that demonstrate my growth as an engineer.
+I enjoy solving problems, exploring cloud technologies, and building practical solutions. My interests span software development, AWS infrastructure, networking, and web server administration.
 
-**Let's connect, collaborate, and build something meaningful!** 🚀
+**Let's connect and build something meaningful!** 🚀
